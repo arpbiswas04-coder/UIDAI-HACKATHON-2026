@@ -1,17 +1,4 @@
-# UIDAI-HACKATHON-2026
-
-Read URL: https://github.com/arpbiswas04-coder/UIDAI-HACKATHON-2026
-Viewed content.md:1-800
-Ran command: `$content = Get-Content -Raw -Path "C:\Users\ARPAN\.gemini\antigravity\brain\cff5b4cd-7e86-4107-89a9-d77376cf607a\.system_generated\steps\134\content.md"
-[regex]::Matches($content, 'href="/arpbiswas04-coder/UIDAI-HACKATHON-2026/(blob|tree)/[^"]+"') | ForEach-Object { $_.Value } | Select-Object -Unique
-`
-Read URL: https://raw.githubusercontent.com/arpbiswas04-coder/UIDAI-HACKATHON-2026/main/final%20adhaar%20anomaly%20(1).ipynb
-Viewed content.md:1-800
-
-Here is the complete, undivided **`README.md`** for your **UIDAI-HACKATHON-2026** repository, all in a single code block so you can copy and paste it instantly!
-
-```markdown
-# 🆔 UIDAI Aadhaar Anomaly & Fraud Detection System (UIDAI Hackathon 2026)
+### 🆔 UIDAI Aadhaar Anomaly & Fraud Detection System (UIDAI Hackathon 2026)
 
 An advanced Unsupervised Machine Learning system designed to identify fraudulent activities and operational anomalies in Aadhaar enrollment and update registries. This project aggregates geographical and temporal logs (biometrics, demographics, and enrollments) to pinpoint high-risk locations and suspicious centers using the **Isolation Forest** anomaly detection algorithm.
 
